@@ -20,11 +20,6 @@
 pip install -r requirements.txt
 ```
 
-3. Install markdown depenendies with: 
-
-```python
-pip install "unstructured[md]"
-```
 
 ## Create database
 
