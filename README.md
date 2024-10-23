@@ -33,4 +33,12 @@ Query the Chroma DB.
 ```python
 python query_data.py "什麼是器官晶片"
 ```
+## Start the app.py
+
+Query the Chroma DB.
+
+```python
+python app.py
+```
+
 
